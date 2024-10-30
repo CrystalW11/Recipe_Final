@@ -1,0 +1,6 @@
+Things to fix
+- Fix validation for login. When clicking login button with nothing in the form it should return you to that page again with errors populating.
+
+- in "view one" page I shouldnt be able to delete or edit data if I didnt make it.
+
+- "edit page" should be populating all values respectively. Your description, instructions, under 30 are missing.
